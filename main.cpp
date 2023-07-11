@@ -23,11 +23,13 @@ const int BlackRook = 114;
 
 };
 
-
+int a = 5;
 
 
 int main(){
     //here we go!
-    
+    std::cout<<a<<std::endl;
+system("pause");
+
     return 0;
 }
